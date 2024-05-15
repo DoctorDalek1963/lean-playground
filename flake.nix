@@ -11,7 +11,7 @@
     };
 
     lean4 = {
-      url = "github:leanprover/lean4";
+      url = "github:leanprover/lean4?ref=v4.7.0";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
